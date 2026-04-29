@@ -1,5 +1,5 @@
 Algoritmo dosnumeros_su_suma
-	Definir x, z,  resultado como entero
+	Definir x, z,  resultado como real
 	Escribir "ponga el primer numero"
 	Leer x
 	Escribir "ponga el segundo numero"
