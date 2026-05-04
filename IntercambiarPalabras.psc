@@ -8,9 +8,9 @@
 		Escribir "Ingrese la palabra B:"
 		Leer B
 		
-		palabra <- A
-		A <- B
-		B <- palabra
+		palabra= A
+		A= B
+		B= palabra
 		
 		Escribir "Ahora A es: ", A
 		Escribir "Ahora B es: ", B
