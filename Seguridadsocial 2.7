@@ -1,0 +1,15 @@
+Algoritmo Seguridadsocial
+	Definir  salariobase, aportesalud, aportepension, descuento, salarioneto Como Real
+	Imprimir ("ingrese el salario base del empleaado")
+	Leer salariobase
+	aportesalud=salariobase*0.04
+	aportepension=salariobase*0.04
+	descuento=aportesalud+aportepension
+	salarioneto=salariobase-descuento
+	Imprimir "el aporte a salud es de", aportesalud
+	Imprimir "el aporte a pension es de", aportepension
+	Imprimir "el descuento es de", descuento
+	Imprimir "el salario neto a pagar es", salarioneto
+	
+	
+FinAlgoritmo
